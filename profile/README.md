@@ -27,13 +27,18 @@
 
 GitHub 仓库：  [https://github.com/trustdev-org/calendar-diary](https://github.com/trustdev-org/calendar-diary)
 
-### 🧠 Star 历史曲线
-[![Star History Chart](https://api.star-history.com/svg?repos=trustdev-org/calendar-diary&type=Date)](https://star-history.com/#trustdev-org/calendar-diary&Date)
+<img src="https://api.star-history.com/svg?repos=trustdev-org/calendar-diary&type=Date" width="500" />
+
+| 指标 | 展示 |
+|------|------|
+| ⭐ Stars | ![](https://img.shields.io/github/stars/trustdev-org/calendar-diary?style=flat-square) |
+| 🍴 Forks | ![](https://img.shields.io/github/forks/trustdev-org/calendar-diary?style=flat-square) |
+| 📦 Release 下载量 | ![](https://img.shields.io/github/downloads/trustdev-org/calendar-diary/total?style=flat-square) |
+| 📥 最新版下载 | ![](https://img.shields.io/github/downloads/trustdev-org/calendar-diary/latest/total?style=flat-square) |
+| 🧪 Issues 数量 | ![](https://img.shields.io/github/issues/trustdev-org/calendar-diary?style=flat-square) |
+| 🧑‍💻 最后提交时间 | ![](https://img.shields.io/github/last-commit/trustdev-org/calendar-diary?style=flat-square) |
 
 
-| 项目 | 星标 | Forks | Issues | 最后提交 |
-|------|-------|-------|--------|-------------|
-| calendar-diary | ![](https://img.shields.io/github/stars/trustdev-org/calendar-diary?style=flat-square) | ![](https://img.shields.io/github/forks/trustdev-org/calendar-diary?style=flat-square) | ![](https://img.shields.io/github/issues/trustdev-org/calendar-diary?style=flat-square) | ![](https://img.shields.io/github/last-commit/trustdev-org/calendar-diary?style=flat-square) |
 
 | 系统 | 状态 | 下载 |
 |------|------|------|
